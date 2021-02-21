@@ -1,3 +1,7 @@
+# Tidy up Plex movies by moving a video file into a directory of the same name so that we can store other assets e.g. cover page and background image
+# Run `./mv_folder.sh <directory>
+
+
 cd $1
 
 dir_count=0
